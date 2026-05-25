@@ -18,7 +18,7 @@
   <a href="https://br.linkedin.com/in/ana-luiza-landim-irschlinger-91a445213" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##Status
+## Status
 ![](https://github-readme-stats.shion.dev/api?username=AnaLuizaLandim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=AnaLuizaLandim&theme=dark&hide_border=false)
